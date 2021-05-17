@@ -1,0 +1,3 @@
+2021-05-13T13:04:19.1173300+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-05-13T13:04:19.1249069+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-05-13T13:04:19.1266885+02:00  [INF] Content root path: "C:\Users\bhanu\source\repos\ParkingRightService\ParkingRightService" (b5d60022)
